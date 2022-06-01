@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "586407533368",
+    "project_id": "udemysocialapp-18606",
+    "storage_bucket": "udemysocialapp-18606.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586407533368:android:3e4b94ab3461f189cfffcd",
+        "android_client_info": {
+          "package_name": "com.example.social_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586407533368-fu8026gcftomidcghdd9kmegc16gs8lf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.social_app",
+            "certificate_hash": "0009ec60c41b3b5e46237e71d0fc6cf5c510b3cc"
+          }
+        },
+        {
+          "client_id": "586407533368-ca51cr0t1bosscl945v6uu4ftlq0on4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsk7R0mQGnuj5P2JDOlOVWy1uBVSo4NGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586407533368-ca51cr0t1bosscl945v6uu4ftlq0on4v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
